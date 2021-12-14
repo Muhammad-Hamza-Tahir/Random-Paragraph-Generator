@@ -21,6 +21,20 @@ let randomText = [
      
    })
 
+   //  let randomBtn = random.Value;
+
+   // if () {
+      
+   // }
+
+
+
+
+
+
+
+
+
   
   
   
