@@ -3,13 +3,20 @@
     padding: 0;
     background-color: whitesmoke;
 }
+/* .main{
+    width: 1360px;
+} */
 .span1{
     font-weight: bold;
     font-size: 20px;
+    margin-left: 550px;
+    
 }
 #random{
     width: 40px;
     height: 20px;
+    margin-top: 40px;
+   
 }
 #Generate{
     width: 80px;
@@ -21,4 +28,9 @@
     background-color: white;
     color: blueviolet;
     transition: .5s ease-in-out;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+   
 }
