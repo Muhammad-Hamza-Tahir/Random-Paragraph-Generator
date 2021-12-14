@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+.span1{
+    font-weight: bold;
+    font-size: 20px;
+}
+#random{
+    width: 40px;
+    height: 20px;
+}
+#Generate{
+    width: 80px;
+    height: 20px;
+    background-color:lightblue;
+    border-radius: 5px;
+}
+#Generate:hover{
+    background-color: white;
+    color: blueviolet;
+    transition: .5s ease-in-out;
+}
