@@ -38,7 +38,7 @@ h1{
 #para{
     width: 600px;
     height: 300px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
    margin-left: 350px;
    margin-top: 40px;
    color: rgba(0, 0, 0, .5);
